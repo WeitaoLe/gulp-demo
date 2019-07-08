@@ -1,0 +1,12 @@
+h1{
+	color:#333;
+	font-size:40px;
+}
+p {
+	padding:20px 0;
+	color:red;
+}
+p:hover {
+	color:blue;
+	transition:color,.8s;
+}
